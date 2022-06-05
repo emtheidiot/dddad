@@ -5,6 +5,8 @@ The Best Crypto + NFT Drainer Site
 Drains more than 100 leading wallets !!!
 Drains Metamask wallet, Trust Wallet and any wallet supported by WalletConnect.
 
+https://t.me/NFTdrainertool
+
 Why do fake minting for small change when can drain the full wallet 🏆
 
 😜 Has simple html / css code for quick customization 
